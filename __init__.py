@@ -17,7 +17,7 @@ def trophy(x,y,count):
     screen.blit(spriteTrophy[count],(x,y))
     x += spriteTrophy[0].get_width()
     count = count + 1
-
+#marco
 def final():
     #pygame.display.flip()
     start = False
